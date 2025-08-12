@@ -1,0 +1,6 @@
+qno,answer,marks,diagram,diagram_path,answer_type,diagram marks
+1,Internet Protocol version 4 (IPv4) is the first version of the Internet Protocol (IP) as a standalone specification. It is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks,3,no,N/A,Discriptive,0
+2,"A local area network (LAN) is a collection of devices connected together in one physical location, such as a building, office, or home",5,yes,Schema/ans2_diagram.jpg,Discriptive,2
+3,TRUE,1,no,N/A,ToF,0
+4,Wide area network,1,no,N/A,Short,0
+5,tcp,1,no,N/A,Short,0
